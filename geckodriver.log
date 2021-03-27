@@ -1,0 +1,23 @@
+1615067545581	geckodriver	INFO	Listening on 127.0.0.1:61469
+1615067548659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\robocorp\\temp\\d3da56ecacae36ff\\rust_mozprofile8gw2pr"
+1615067550823	geckodriver	INFO	Listening on 127.0.0.1:61479
+1615067553874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\robocorp\\temp\\d3da56ecacae36ff\\rust_mozprofileLdY5gD"
+1615067553894	geckodriver	INFO	Listening on 127.0.0.1:61488
+1615067556928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\robocorp\\temp\\d3da56ecacae36ff\\rust_mozprofileleGBl0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615067560042	Marionette	INFO	Listening on port 61499
+1615067560080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://robocorp.com/docs/1ca26f696c4dfca83bfabff99b9ca62eb2865a29-1540f54637605c48e5e0.js, line 52: unreachable code after return statement
+1615067566072	Marionette	INFO	Stopped listening on port 61499
+1615067658326	geckodriver	INFO	Listening on 127.0.0.1:61704
+1615067661388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\robocorp\\temp\\d61006d1b9eb8470\\rust_mozprofileUDx8VZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615067663566	Marionette	INFO	Listening on port 61713
+1615067664033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615067667957	Marionette	INFO	Stopped listening on port 61713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
